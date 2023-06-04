@@ -1,0 +1,33 @@
+.not-found{
+    width: 100%;
+    height: calc(100vh - 60px); /*Por causa dos 60px do header*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.not-found h1{
+    font-size: 100px;
+    color: white;
+}
+
+.not-found h2{
+    color: white;
+}
+
+.not-found a{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #116feb;
+    color: white;
+    padding: 10px;
+    margin-top: 14px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+.not-found a:hover{
+    background-color: rgb(208, 208, 208);
+    color: black;
+}
