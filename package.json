@@ -1,8 +1,7 @@
 {
-  "homepage":"https://giovanasbarbosa.github.io/React-PrimeFlix",
+  "homepage":"https://giovanasbarbosa.github.io/React-PrimeFlix/",
   "name": "primeflix",
   "version": "0.1.0",
-  "homepage": "https://giovanasbarbosa.github.io/Projeto-PrimeFlix",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
