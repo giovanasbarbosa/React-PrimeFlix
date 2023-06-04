@@ -1,0 +1,23 @@
+footer {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+footer span{
+    color: rgba(255, 255, 255, 0.53);
+}
+
+footer span a{
+    color: rgba(255, 255, 255, 0.53);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.201);
+    padding: 6px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+footer span a:hover{
+    color: #10105E;
+    background-color: rgba(255, 255, 255, 0.297);
+}
